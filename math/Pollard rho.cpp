@@ -1,34 +1,15 @@
-#include <algorithm>
-#include <iostream>
-#include <cstring>
-#include <cstdio>
-#include <cmath>
 #include <bits/stdc++.h>
-#define FOR() ll le=e[u].size();for(ll i=0;i<le;i++)
-#define QWQ cout<<"QwQ\n";
 #define ll long long
 #define lll __int128
-#include <vector>
-#include <queue>
-#include <map>
-#include <set>
 
 using namespace std;
 const ll N=501010;
-const ll qwq=303030;
-const ll inf=0x3f3f3f3f;
 
 ll T;
 ll n,m;
 map <ll,ll> f;
 ll zz[] = {2,3,5,7,11,13,17,19,23};
 
-inline ll read() {
-    ll sum = 0, ff = 1; char c = getchar();
-    while(c<'0' || c>'9') { if(c=='-') ff = -1; c = getchar(); }
-    while(c>='0'&&c<='9') { sum = sum * 10 + c - '0'; c = getchar(); }
-    return sum * ff;
-}
 
 ll gcd(ll aa,ll bb) { return !bb ? aa : gcd(bb,aa%bb); }
 
