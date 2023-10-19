@@ -1,0 +1,43 @@
+pre { line-height: 125%; }
+td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; }
+td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
+span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; }
+.hll { background-color: #ffffcc }
+.c { font-family: Consolas, sans-serif; color: #008000 } /* Comment */
+.err { font-family: Consolas, sans-serif; border: 1px solid #FF0000 } /* Error */
+.k { font-family: Consolas, sans-serif; color: #0000ff } /* Keyword */
+.ch { font-family: Consolas, sans-serif; color: #008000 } /* Comment.Hashbang */
+.cm { font-family: Consolas, sans-serif; color: #008000 } /* Comment.Multiline */
+.cp { font-family: Consolas, sans-serif; color: #0000ff } /* Comment.Preproc */
+.cpf { font-family: Consolas, sans-serif; color: #008000 } /* Comment.PreprocFile */
+.c1 { font-family: Consolas, sans-serif; color: #008000 } /* Comment.Single */
+.cs { font-family: Consolas, sans-serif; color: #008000 } /* Comment.Special */
+.ge { font-family: Consolas, sans-serif; font-style: italic } /* Generic.Emph */
+.ges { font-family: Consolas, sans-serif; font-weight: bold; font-style: italic } /* Generic.EmphStrong */
+.gh { font-family: Consolas, sans-serif; font-weight: bold } /* Generic.Heading */
+.gp { font-family: Consolas, sans-serif; font-weight: bold } /* Generic.Prompt */
+.gs { font-family: Consolas, sans-serif; font-weight: bold } /* Generic.Strong */
+.gu { font-family: Consolas, sans-serif; font-weight: bold } /* Generic.Subheading */
+.kc { font-family: Consolas, sans-serif; color: #0000ff } /* Keyword.Constant */
+.kd { font-family: Consolas, sans-serif; color: #0000ff } /* Keyword.Declaration */
+.kn { font-family: Consolas, sans-serif; color: #0000ff } /* Keyword.Namespace */
+.kp { font-family: Consolas, sans-serif; color: #0000ff } /* Keyword.Pseudo */
+.kr { font-family: Consolas, sans-serif; color: #0000ff } /* Keyword.Reserved */
+.kt { font-family: Consolas, sans-serif; color: #2b91af } /* Keyword.Type */
+.s { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String */
+.nc { font-family: Consolas, sans-serif; color: #2b91af } /* Name.Class */
+.ow { font-family: Consolas, sans-serif; color: #0000ff } /* Operator.Word */
+.sa { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Affix */
+.sb { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Backtick */
+.sc { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Char */
+.dl { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Delimiter */
+.sd { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Doc */
+.s2 { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Double */
+.se { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Escape */
+.sh { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Heredoc */
+.si { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Interpol */
+.sx { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Other */
+.sr { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Regex */
+.s1 { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Single */
+.ss { font-family: Consolas, sans-serif; color: #a31515 } /* Literal.String.Symbol */
